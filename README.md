@@ -1,5 +1,5 @@
-# curso-django
-Repository for the Django Course of [Python Pro](https://python.pro.br/)
+# libpythonpro
+Repository for the Pytools Module from [Python Pro](https://python.pro.br/)
 
 [![Build Status](https://travis-ci.org/robertoshimizu/curso-django.svg?branch=master)](https://travis-ci.org/robertoshimizu/curso-django)
 [![Updates](https://pyup.io/repos/github/robertoshimizu/curso-django/shield.svg)](https://pyup.io/repos/github/robertoshimizu/curso-django/)
