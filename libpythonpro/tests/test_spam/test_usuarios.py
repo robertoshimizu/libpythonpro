@@ -1,4 +1,4 @@
-from libdjango.spam.modelos import Usuario
+from libpythonpro.spam.modelos import Usuario
 
 # A fixture é transformada em um generator, que só roda quando a função for executada.
 # vc pode setar que o fixture rode por função, por modulo ou por sessaao. Neste caso como a fixture é chamada duas vezes
