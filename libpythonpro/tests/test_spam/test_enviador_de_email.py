@@ -1,6 +1,6 @@
 import pytest
 
-from libdjango.spam.enviador_de_email import Enviador, EmailInvalido
+from libpythonpro.spam.enviador_de_email import Enviador, EmailInvalido
 
 
 # criação de um programa de envio de mensagens de spam, a partir de endereços de um banco de dados.

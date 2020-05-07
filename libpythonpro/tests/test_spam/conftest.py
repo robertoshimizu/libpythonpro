@@ -1,6 +1,6 @@
 import pytest
 
-from libdjango.spam.db import Conexao
+from libpythonpro.spam.db import Conexao
 
 
 @pytest.fixture(scope='module')

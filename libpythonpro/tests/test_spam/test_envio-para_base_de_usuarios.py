@@ -1,8 +1,8 @@
 import pytest
 
-from libdjango.spam.enviador_de_email import Enviador
-from libdjango.spam.main import EnviadorDeSpam
-from libdjango.spam.modelos import Usuario
+from libpythonpro.spam.enviador_de_email import Enviador
+from libpythonpro.spam.main import EnviadorDeSpam
+from libpythonpro.spam.modelos import Usuario
 
 
 @pytest.mark.parametrize(
