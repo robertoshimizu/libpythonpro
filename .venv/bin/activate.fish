@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/media/rober/HDD1/Git_Repo/curso-django/.venv"
+set -gx VIRTUAL_ENV "/media/rober/HDD1/Git_Repo/libpythonpro/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

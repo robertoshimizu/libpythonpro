@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/media/rober/HDD1/Git_Repo/curso-django/.venv"
+VIRTUAL_ENV="/media/rober/HDD1/Git_Repo/libpythonpro/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

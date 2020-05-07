@@ -1,4 +1,4 @@
-#!/media/rober/HDD1/Git_Repo/curso-django/.venv/bin/python
+#!/media/rober/HDD1/Git_Repo/libpythonpro/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
