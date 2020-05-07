@@ -1,0 +1,11 @@
+language: python
+python:
+  - 3.8
+install:
+  - pip install -r requirements-dev.txt codecov
+script:
+  - flake8
+  - pytest libdjango
+  - pytest libdjango --cov=libdjango
+after_success:
+  - codecov

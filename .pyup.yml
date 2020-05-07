@@ -1,0 +1,9 @@
+Update: all
+Search: True
+Schedule: "every week"
+Pin: True
+Default Branch: master
+Branch pre-fix: pyup-
+Close PRs: False
+Label PRs: update
+Update hashes: True
